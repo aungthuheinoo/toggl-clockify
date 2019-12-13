@@ -1,0 +1,2529 @@
+[
+  {
+    "id": "5daeb8988a17084c0338cba8",
+    "name": "Strategy (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5daeb8988a17084c0338cba8",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#03A9F4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5daf0ce08a17084c033900ef",
+    "name": "HR (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5daf0ce08a17084c033900ef",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#795548",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5daf28d0ae125662897e322f",
+    "name": "Business Development (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5daf28d0ae125662897e322f",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#8BC34A",
+    "estimate": {
+      "estimate": "PT80H",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db4c27767ef962664559fea",
+    "name": "Legal (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5db4c27767ef962664559fea",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#8BC34A",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db5005149b6cd123bee07cb",
+    "name": "IoT Smart Meters (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5db5005149b6cd123bee07cb",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#03A9F4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db5055349b6cd123bee0895",
+    "name": "Natural Language Processing (NLP) work",
+    "hourlyRate": null,
+    "clientId": "5db5052c67ef96266455ab7f",
+    "client": {
+      "id": "5db5052c67ef96266455ab7f",
+      "name": "FHI360",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5db5055349b6cd123bee0895",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#9C27B0",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db5b8b249b6cd123bee170f",
+    "name": "Grant and Proposal Writing (non-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5db5b8b249b6cd123bee170f",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#4CAF50",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db7e2ed0a69d431a907de0b",
+    "name": "DevOps (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": false,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db7e2ed0a69d431a907de0b",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#607D8B",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9012b67ef962664582945",
+    "name": "Finance (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5db9012b67ef962664582945",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#4CAF50",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90248cae2c7312c203ef5",
+    "name": "Admin (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90248cae2c7312c203ef5",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#c77904",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9027144088f7b13485b07",
+    "name": "Birth and Death Registration (MBDR)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db4c25e49b6cd123bedfd46",
+    "client": {
+      "id": "5db4c25e49b6cd123bedfd46",
+      "name": "UNICEF",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9027144088f7b13485b07",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FF9800",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db902bacae2c7312c203f26",
+    "name": "Case Information System (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db902b5cae2c7312c203f25",
+    "client": {
+      "id": "5db902b5cae2c7312c203f25",
+      "name": "UNDP",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db902bacae2c7312c203f26",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#009688",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db902d1cae2c7312c203f30",
+    "name": "Central Statistics Organization (CSO) software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db902b5cae2c7312c203f25",
+    "client": {
+      "id": "5db902b5cae2c7312c203f25",
+      "name": "UNDP",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db902d1cae2c7312c203f30",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FFC107",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9030ad8e97010b8d2558c",
+    "name": "CMIS Jhpiego project software (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9030ad8e97010b8d2558c",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#F44336",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9038fcae2c7312c203f87",
+    "name": "Commercial Law Software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db903803a57f5292baa5f4f",
+    "client": {
+      "id": "5db903803a57f5292baa5f4f",
+      "name": "Nathan & Associates, Inc.",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9038fcae2c7312c203f87",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#009688",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90400d8e97010b8d255ca",
+    "name": "DAO software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90400d8e97010b8d255ca",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3F51B5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db904323a57f5292baa5f91",
+    "name": "Digital Maternal Cash Transfers",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db90430d8e97010b8d255dd",
+    "client": {
+      "id": "5db90430d8e97010b8d255dd",
+      "name": "UNCDF",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db904323a57f5292baa5f91",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9045f44088f7b13485bd7",
+    "name": "Facebook hate speech + NLP development",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9045cd8e97010b8d255ed",
+    "client": {
+      "id": "5db9045cd8e97010b8d255ed",
+      "name": "Canadian Government",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9045f44088f7b13485bd7",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db904853a57f5292baa5faf",
+    "name": "GAD, VTA project",
+    "hourlyRate": null,
+    "clientId": "5db50b6167ef96266455ac54",
+    "client": {
+      "id": "5db50b6167ef96266455ac54",
+      "name": "World Bank",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db904853a57f5292baa5faf",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3F51B5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db904eed8e97010b8d2561c",
+    "name": "HMIS software (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db904eed8e97010b8d2561c",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9050644088f7b13485c34",
+    "name": "IT Infrastructure",
+    "hourlyRate": null,
+    "clientId": "5dd4ce011ca53362a481e98d",
+    "client": {
+      "id": "5dd4ce011ca53362a481e98d",
+      "name": "Koe Koe Tech",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9050644088f7b13485c34",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FF9800",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9056a44088f7b13485c64",
+    "name": "Kachin & Northern Shan maymay (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9052c44088f7b13485c45",
+    "client": {
+      "id": "5db9052c44088f7b13485c45",
+      "name": "Norwegian Refugee Council",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9056a44088f7b13485c64",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9058ecae2c7312c20405a",
+    "name": "Law Software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db90583cae2c7312c204054",
+    "client": {
+      "id": "5db90583cae2c7312c204054",
+      "name": "MyJustice",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9058ecae2c7312c20405a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3F51B5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db905abcae2c7312c20406a",
+    "name": "Lawyer Registration Study",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db90583cae2c7312c204054",
+    "client": {
+      "id": "5db90583cae2c7312c204054",
+      "name": "MyJustice",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db905abcae2c7312c20406a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3F51B5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db905cb3a57f5292baa602c",
+    "name": "Leveraging demand for vaccinations through Facebook",
+    "hourlyRate": null,
+    "clientId": "5db905c93a57f5292baa602a",
+    "client": {
+      "id": "5db905c93a57f5292baa602a",
+      "name": "Christian Aid",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db905cb3a57f5292baa602c",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#00BCD4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db906ed44088f7b13485d10",
+    "name": "maymay Bangladesh (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db906ea44088f7b13485d0f",
+    "client": {
+      "id": "5db906ea44088f7b13485d0f",
+      "name": "University of Sidney",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db906ed44088f7b13485d10",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#9C27B0",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90716cae2c7312c204108",
+    "name": "maymay GCC work (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db90714cae2c7312c204106",
+    "client": {
+      "id": "5db90714cae2c7312c204106",
+      "name": "Grand Challenges Canada",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90716cae2c7312c204108",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9074fcae2c7312c20412a",
+    "name": "maymay MEDA",
+    "hourlyRate": null,
+    "clientId": "5db9074c3a57f5292baa60d2",
+    "client": {
+      "id": "5db9074c3a57f5292baa60d2",
+      "name": "MEDA",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9074fcae2c7312c20412a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90777cae2c7312c20413b",
+    "name": "maymay project (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90777cae2c7312c20413b",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db907983a57f5292baa60f8",
+    "name": "Montrose-UNESCO Education Project",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db90795cae2c7312c204145",
+    "client": {
+      "id": "5db90795cae2c7312c204145",
+      "name": "UNESCO",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db907983a57f5292baa60f8",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#009688",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db907b144088f7b13485d94",
+    "name": "Myankhon Expansion",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db907b144088f7b13485d94",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FFC107",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db907db44088f7b13485daa",
+    "name": "MyoTaw (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db907db44088f7b13485daa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#03A9F4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90879d8e97010b8d257b2",
+    "name": "Pyo Pyo May - maymay for girls (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9087644088f7b13485deb",
+    "client": {
+      "id": "5db9087644088f7b13485deb",
+      "name": "SPRING Accelarator",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90879d8e97010b8d257b2",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db908adcae2c7312c2041d1",
+    "name": "Rakhine Project (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db908aa3a57f5292baa6193",
+    "client": {
+      "id": "5db908aa3a57f5292baa6193",
+      "name": "UNFPA",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db908adcae2c7312c2041d1",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db908d844088f7b13485e19",
+    "name": "R&D (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db908d844088f7b13485e19",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FFC107",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db908f8cae2c7312c2041f5",
+    "name": "Sales (for-profit)",
+    "hourlyRate": null,
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db908f8cae2c7312c2041f5",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#4CAF50",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db9091144088f7b13485e3a",
+    "name": "Shwe maymay (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db9091144088f7b13485e3a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db90922cae2c7312c20420e",
+    "name": "Team Meeting",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db90922cae2c7312c20420e",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#9C27B0",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5db909313a57f5292baa61c1",
+    "name": "Training",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5db909313a57f5292baa61c1",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#000000",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5dcb8cda0f7c2242fb947cbf",
+    "name": "CMIS software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9032244088f7b13485b56",
+    "client": {
+      "id": "5db9032244088f7b13485b56",
+      "name": "PSI",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5dcb8cda0f7c2242fb947cbf",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#151313",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5dd20ec9be65e549cbcad9e5",
+    "name": "maymay chatbot development",
+    "hourlyRate": null,
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5dd20ec9be65e549cbcad9e5",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#f004e0",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5dd2579d038ca03af3b462d2",
+    "name": "Aye Chan Thaw Ein-Empowering Labour Migrants in Shwe Pyi Thar",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd2577fbe65e549cbcb0966",
+    "client": {
+      "id": "5dd2577fbe65e549cbcb0966",
+      "name": "People In Need",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae8e92f678974818e9c1c1",
+        "hourlyRate": null,
+        "targetId": "5dd2579d038ca03af3b462d2",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#795548",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5dd4d69e5bd4fa53f8310d8a",
+    "name": "Compliance (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5dd4d69e5bd4fa53f8310d8a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FF9800",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5dd4e5fa5bd4fa53f83116bb",
+    "name": "Project Management (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5dd4e5fa5bd4fa53f83116bb",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#00BCD4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5dd4e60e3573ec1cdc8254d5",
+    "name": "Project Team Meeting (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9030044088f7b13485b43",
+    "client": {
+      "id": "5db9030044088f7b13485b43",
+      "name": "Jhpiego",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5dd4e60e3573ec1cdc8254d5",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#8BC34A",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5dd78c2a1ca53362a48662bc",
+    "name": "Advertising (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5dd78c2a1ca53362a48662bc",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5dd78c2a1ca53362a48662bc",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#fb8b14",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb621b1ca53362a48c54df",
+    "name": "Accounting (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb621b1ca53362a48c54df",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb621b1ca53362a48c54df",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#4bc800",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb64771ca53362a48c571c",
+    "name": "Case information system --> UNDP CIS Toggl project",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db902b5cae2c7312c203f25",
+    "client": {
+      "id": "5db902b5cae2c7312c203f25",
+      "name": "UNDP",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddb64771ca53362a48c571c",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#04bb9b",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddb647f1ca53362a48c5729",
+    "name": "City App (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb647f1ca53362a48c5729",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb647f1ca53362a48c5729",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#890000",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb65231ca53362a48c57ef",
+    "name": "City App iOS",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb65231ca53362a48c57ef",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb65231ca53362a48c57ef",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3750b5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb65c31ca53362a48c5890",
+    "name": "Common Payments Platform (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce051ca53362a481e991",
+    "client": {
+      "id": "5dd4ce051ca53362a481e991",
+      "name": "Frontier Innovators",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddb65c31ca53362a48c5890",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#06aaf5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddb65c71ca53362a48c589b",
+    "name": "Common Payments Platform (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce071ca53362a481e993",
+    "client": {
+      "id": "5dd4ce071ca53362a481e993",
+      "name": "AYA Bank",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddb65c71ca53362a48c589b",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#205500",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddb65ce1ca53362a48c58aa",
+    "name": "Compliance (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e3",
+        "hourlyRate": null,
+        "targetId": "5ddb65ce1ca53362a48c58aa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5dae8e92f678974818e9c1c1",
+        "hourlyRate": null,
+        "targetId": "5ddb65ce1ca53362a48c58aa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5db2b41dc7a57569f8db4427",
+        "hourlyRate": null,
+        "targetId": "5ddb65ce1ca53362a48c58aa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb65ce1ca53362a48c58aa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb65ce1ca53362a48c58aa",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#f1c33f",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb65d21ca53362a48c58ae",
+    "name": "CSO - Open API (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db902b5cae2c7312c203f25",
+    "client": {
+      "id": "5db902b5cae2c7312c203f25",
+      "name": "UNDP",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddb65d21ca53362a48c58ae",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#06aaf5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddb65d61ca53362a48c58b3",
+    "name": "DIPD law software (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce0b1ca53362a481e99c",
+    "client": {
+      "id": "5dd4ce0b1ca53362a481e99c",
+      "name": "DIPD",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e5",
+        "hourlyRate": null,
+        "targetId": "5ddb65d61ca53362a48c58b3",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb65d61ca53362a48c58b3",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb65d61ca53362a48c58b3",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#efe85d",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb66621ca53362a48c5941",
+    "name": "HMIS software (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce071ca53362a481e994",
+    "client": {
+      "id": "5dd4ce071ca53362a481e994",
+      "name": "Ministry of Health and Sports (MOHS)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb66621ca53362a48c5941",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb66621ca53362a48c5941",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#e19a86",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb85d61ca53362a48c8c81",
+    "name": "IoT Electricity (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db4c25667ef962664559fe5",
+    "client": {
+      "id": "5db4c25667ef962664559fe5",
+      "name": "The Asia Foundation (TAF)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb85d61ca53362a48c8c81",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb85d61ca53362a48c8c81",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#c7741c",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddb88a61ca53362a48c93b6",
+    "name": "Legal Research Software (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db902b5cae2c7312c203f25",
+    "client": {
+      "id": "5db902b5cae2c7312c203f25",
+      "name": "UNDP",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e5",
+        "hourlyRate": null,
+        "targetId": "5ddb88a61ca53362a48c93b6",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5ddb88a61ca53362a48c93b6",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      },
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5ddb88a61ca53362a48c93b6",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#06aaf5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf889068e1043f07c54ead",
+    "name": "maymay expansion (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf889068e1043f07c54ead",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#009688",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf88b768e1043f07c54ec4",
+    "name": "may may-Lift toggl project",
+    "hourlyRate": null,
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf88b768e1043f07c54ec4",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#F44336",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf88d103aec9366681959b",
+    "name": "maymay RCT (non-profit)",
+    "hourlyRate": null,
+    "clientId": "5dd4ce0b1ca53362a481e99b",
+    "client": {
+      "id": "5dd4ce0b1ca53362a481e99b",
+      "name": "University of Sydney",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf88d103aec9366681959b",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#03A9F4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf893403aec936668195da",
+    "name": "maymay software (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5db9032244088f7b13485b56",
+    "client": {
+      "id": "5db9032244088f7b13485b56",
+      "name": "PSI",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf893403aec936668195da",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#03A9F4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf895103aec936668195ea",
+    "name": "maymay software (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce071ca53362a481e994",
+    "client": {
+      "id": "5dd4ce071ca53362a481e994",
+      "name": "Ministry of Health and Sports (MOHS)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf895103aec936668195ea",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FFC107",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8973f019d12dd15d04b8",
+    "name": "maymay USAID DIV work (for-profit))",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce081ca53362a481e996",
+    "client": {
+      "id": "5dd4ce081ca53362a481e996",
+      "name": "USAID DIV",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8973f019d12dd15d04b8",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#8BC34A",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf898a68e1043f07c54f4c",
+    "name": "maymay Vietnam (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce0b1ca53362a481e99b",
+    "client": {
+      "id": "5dd4ce0b1ca53362a481e99b",
+      "name": "University of Sydney",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf898a68e1043f07c54f4c",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FF5722",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8a2e68e1043f07c54fa9",
+    "name": "Presentations & Public Speaking (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8a2e68e1043f07c54fa9",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#795548",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf8a4bab3e8f7e3f029534",
+    "name": "Registration Information System (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce0a1ca53362a481e99a",
+    "client": {
+      "id": "5dd4ce0a1ca53362a481e99a",
+      "name": "MNMC",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8a4bab3e8f7e3f029534",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#E91E63",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8a6868e1043f07c54fcd",
+    "name": "Registration Information System (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce091ca53362a481e998",
+    "client": {
+      "id": "5dd4ce091ca53362a481e998",
+      "name": "MNMA",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8a6868e1043f07c54fcd",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#FF9800",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8a8268e1043f07c54fe3",
+    "name": "Shwe maymay meeting for design and animation",
+    "hourlyRate": null,
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8a8268e1043f07c54fe3",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#3F51B5",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf8a9f03aec9366681969e",
+    "name": "Storytelling & Communications (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8a9f03aec9366681969e",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#9C27B0",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8aab68e1043f07c55008",
+    "name": "Tax (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8aab68e1043f07c55008",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#009688",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8abeab3e8f7e3f02957f",
+    "name": "Voter list software (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce041ca53362a481e98e",
+    "client": {
+      "id": "5dd4ce041ca53362a481e98e",
+      "name": "IFES",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8abeab3e8f7e3f02957f",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#F44336",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf8ba303aec9366681973a",
+    "name": "Compliance (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5db9090ed8e97010b8d257f1",
+    "client": {
+      "id": "5db9090ed8e97010b8d257f1",
+      "name": "LIFT",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8ba303aec9366681973a",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#795548",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  },
+  {
+    "id": "5ddf8bb503aec93666819745",
+    "name": "Compliance (non-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce081ca53362a481e995",
+    "client": {
+      "id": "5dd4ce081ca53362a481e995",
+      "name": "Nathan & Associates",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf8bb503aec93666819745",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#8BC34A",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf997802471b3a77146a96",
+    "name": "LMIS / Supply Chain (for-profit)",
+    "hourlyRate": null,
+    "clientId": "5dd4ce071ca53362a481e994",
+    "client": {
+      "id": "5dd4ce071ca53362a481e994",
+      "name": "Ministry of Health and Sports (MOHS)",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf997802471b3a77146a96",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#607D8B",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5ddf99ac02471b3a77146ab0",
+    "name": "Marketing (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "",
+    "client": null,
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5ddf99ac02471b3a77146ab0",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#F44336",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": false
+  },
+  {
+    "id": "5de4bb17e76ad0295d7ad860",
+    "name": "maymay USAID DIV work (for-profit)",
+    "hourlyRate": {
+      "amount": 0,
+      "currency": "USD"
+    },
+    "clientId": "5dd4ce081ca53362a481e996",
+    "client": {
+      "id": "5dd4ce081ca53362a481e996",
+      "name": "USAID DIV",
+      "workspaceId": "5daeb85eae125662897dcdf0"
+    },
+    "workspaceId": "5daeb85eae125662897dcdf0",
+    "billable": true,
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5de4bb17e76ad0295d7ad860",
+        "membershipType": "PROJECT",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "color": "#00BCD4",
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "archived": false,
+    "tasks": [],
+    "favorite": false,
+    "public": true
+  }
+]

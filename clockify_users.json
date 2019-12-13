@@ -1,0 +1,4242 @@
+[
+  {
+    "id": "5d9ebb4d097886327168521b",
+    "email": "benjaminfinn@koekoetech.com",
+    "name": "Benjamin Finn",
+    "memberships": [
+      {
+        "userId": "5d9ebb4d097886327168521b",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5da71dc6c6908a5d7d3da3b1",
+    "email": "aungphonepyae@koekoetech.com",
+    "name": "Aung Phone Pyae",
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5da71dc6c6908a5d7d3da3b3",
+    "email": "aungthuheinoo@koekoetech.com",
+    "name": "Aung Thu Hein Oo",
+    "memberships": [
+      {
+        "userId": "5da71dc6c6908a5d7d3da3b3",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dae8e92f678974818e9c1c1",
+    "email": "mayble@koekoetech.com",
+    "name": "Mayble",
+    "memberships": [
+      {
+        "userId": "5dae8e92f678974818e9c1c1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "TEAM",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dae94409dafc25b4421148a",
+    "email": "yinnyeinkoko@koekoetech.com",
+    "name": "Yin Nyein Ko Ko",
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148a",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": true,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": null,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dae94409dafc25b4421148c",
+    "email": "michael.lwin@koekoetech.com",
+    "name": "Michael Thet Lwin",
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dae94409dafc25b4421148e",
+    "email": "ben@koekoetech.com",
+    "name": "Benjamin Staubli",
+    "memberships": [
+      {
+        "userId": "5dae94409dafc25b4421148e",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db272acf678974818eaef98",
+    "email": "natxo@koekoetech.com",
+    "name": "Natxo / Ignacio Reguera Perello",
+    "memberships": [
+      {
+        "userId": "5db272acf678974818eaef98",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db272fafb153562d1bf77b6",
+    "email": "waiphyoag1993@gmail.com",
+    "name": "Wai Phyo Aung",
+    "memberships": [
+      {
+        "userId": "5db272fafb153562d1bf77b6",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db273389dafc25b44224235",
+    "email": "papahtoon@koekoetech.com",
+    "name": "Pa Pa Htoon",
+    "memberships": [
+      {
+        "userId": "5db273389dafc25b44224235",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-10-25T04%3A12%3A44.465ZIMG_4115.JPG",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db27397fb153562d1bf7812",
+    "email": "kaykyi@koekoetech.com",
+    "name": "Kay Kyi Htet San",
+    "memberships": [
+      {
+        "userId": "5db27397fb153562d1bf7812",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b20f9dafc25b44226058",
+    "email": "johnaungkhant@gmail.com",
+    "name": "Aung Khant Wai",
+    "memberships": [
+      {
+        "userId": "5db2b20f9dafc25b44226058",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5dd8b53dbe65e549cbcd173d",
+    "defaultWorkspace": "5dd8b53dbe65e549cbcd173d",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": null,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b20f9dafc25b4422605a",
+    "email": "aungmyohein1996@gmail.com",
+    "name": "Aung Myo Hein",
+    "memberships": [
+      {
+        "userId": "5db2b20f9dafc25b4422605a",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b20f9dafc25b4422605c",
+    "email": "aungmyosann2017@gmail.com",
+    "name": "Aung Myo Sann",
+    "memberships": [
+      {
+        "userId": "5db2b20f9dafc25b4422605c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b231fb153562d1bf94d6",
+    "email": "chitmoeaung19874@gmail.com",
+    "name": "Chit Moe Aung",
+    "memberships": [
+      {
+        "userId": "5db2b231fb153562d1bf94d6",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b231fb153562d1bf94d8",
+    "email": "thinzar@koekoetech.com",
+    "name": "Cho Thinzar Win",
+    "memberships": [
+      {
+        "userId": "5db2b231fb153562d1bf94d8",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD/MM/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": true,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "08:30",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b231fb153562d1bf94da",
+    "email": "christina@koekoetech.com",
+    "name": "Christina",
+    "memberships": [
+      {
+        "userId": "5db2b231fb153562d1bf94da",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b23cfb153562d1bf94dd",
+    "email": "cinghsannem@koekoetech.com",
+    "name": "Cingh San Nem",
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94dd",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": true,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b23cfb153562d1bf94df",
+    "email": "eieichawsu10@gmail.com",
+    "name": "Ei Ei Chaw Su",
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94df",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": null,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b23cfb153562d1bf94e1",
+    "email": "eikhaingphyo13@gmail.com",
+    "name": "Ei Khaing Phyo",
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b23cfb153562d1bf94e3",
+    "email": "eric@koekoetech.com",
+    "name": "Eric Lampertz",
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e3",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b23cfb153562d1bf94e5",
+    "email": "haymarwin@koekoetech.com",
+    "name": "Hay Mar Win",
+    "memberships": [
+      {
+        "userId": "5db2b23cfb153562d1bf94e5",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b249c7a57569f8db4328",
+    "email": "heinhtet.hh405@gmail.com",
+    "name": "Hein Htet Aung",
+    "memberships": [
+      {
+        "userId": "5db2b249c7a57569f8db4328",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD-MM-YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b249c7a57569f8db432a",
+    "email": "heinzaw@koekoetech.com",
+    "name": "Hein Zaw Oo",
+    "memberships": [
+      {
+        "userId": "5db2b249c7a57569f8db432a",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b249c7a57569f8db432c",
+    "email": "hnindarliaung.cn@gmail.com",
+    "name": "Hnin DarLi Aung",
+    "memberships": [
+      {
+        "userId": "5db2b249c7a57569f8db432c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b249c7a57569f8db432e",
+    "email": "hninphyuphyuaung1994@gmail.com",
+    "name": "Hnin Phyu Phyu Aung",
+    "memberships": [
+      {
+        "userId": "5db2b249c7a57569f8db432e",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b249c7a57569f8db4330",
+    "email": "hsumyatkhine13@gmail.com",
+    "name": "Hsu Myat Khine",
+    "memberships": [
+      {
+        "userId": "5db2b249c7a57569f8db4330",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-10-25T09%3A37%3A50.244Zdownload+%281%29.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b257c7a57569f8db4339",
+    "email": "hsuthinmaw@koekoetech.com",
+    "name": "Hsu Thin Maw",
+    "memberships": [
+      {
+        "userId": "5db2b257c7a57569f8db4339",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b257c7a57569f8db433b",
+    "email": "hsuwainaing2054@gmail.com",
+    "name": "Hsu Wai Naing",
+    "memberships": [
+      {
+        "userId": "5db2b257c7a57569f8db433b",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b257c7a57569f8db433d",
+    "email": "htaythihaphyo2015@gmail.com",
+    "name": "Htay Thiha Phyo",
+    "memberships": [
+      {
+        "userId": "5db2b257c7a57569f8db433d",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD/MM/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "08:30",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b257c7a57569f8db4341",
+    "email": "julymoe1496@gmail.com",
+    "name": "July Moe",
+    "memberships": [
+      {
+        "userId": "5db2b257c7a57569f8db4341",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5db2b435f678974818eb0dfa",
+    "defaultWorkspace": "5db2b435f678974818eb0dfa",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "PENDING_EMAIL_VERIFICATION"
+  },
+  {
+    "id": "5db2b267f678974818eb0d4f",
+    "email": "unicorn.x98x@gmail.com",
+    "name": "Kaung Myat Ko Ko",
+    "memberships": [
+      {
+        "userId": "5db2b267f678974818eb0d4f",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b267f678974818eb0d51",
+    "email": "kaungsetlay123@gmail.com",
+    "name": "Kaung Set Naing",
+    "memberships": [
+      {
+        "userId": "5db2b267f678974818eb0d51",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-10-25T09%3A08%3A42.921ZC360_2015-06-17-13-50-41-093.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b267f678974818eb0d53",
+    "email": "kaungthurahtoon23@gmail.com",
+    "name": "Kaung Thura Htoon",
+    "memberships": [
+      {
+        "userId": "5db2b267f678974818eb0d53",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "America/Los_Angeles",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b27cfb153562d1bf9503",
+    "email": "khawmsuannuam@koekoetech.com",
+    "name": "Khawm Suan Nuam",
+    "memberships": [
+      {
+        "userId": "5db2b27cfb153562d1bf9503",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "SUNDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD/MM/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "08:30",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b27cfb153562d1bf9505",
+    "email": "dreamweaver090@gmail.com",
+    "name": "Khin Cho Cho Oo",
+    "memberships": [
+      {
+        "userId": "5db2b27cfb153562d1bf9505",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b27cfb153562d1bf9507",
+    "email": "khinchothinn@koekoetech.com",
+    "name": "Khin Cho Thinn",
+    "memberships": [
+      {
+        "userId": "5db2b27cfb153562d1bf9507",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b27cfb153562d1bf9509",
+    "email": "khinmiemiechit@koekoetech.com",
+    "name": "Khin Me Me Chit",
+    "memberships": [
+      {
+        "userId": "5db2b27cfb153562d1bf9509",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b27cfb153562d1bf950b",
+    "email": "khinyoupan@gmail.com",
+    "name": "Khin You Pan",
+    "memberships": [
+      {
+        "userId": "5db2b27cfb153562d1bf950b",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b28df678974818eb0d6c",
+    "email": "coolkid.yingying@gmail.com",
+    "name": "Khine Zar Thin",
+    "memberships": [
+      {
+        "userId": "5db2b28df678974818eb0d6c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b28df678974818eb0d6e",
+    "email": "kokopyaesone367@gmail.com",
+    "name": "Ko Ko Pyae Sone",
+    "memberships": [
+      {
+        "userId": "5db2b28df678974818eb0d6e",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b28df678974818eb0d70",
+    "email": "kyipyar@koekoetech.com",
+    "name": "Kyi Pyar Su Thwe",
+    "memberships": [
+      {
+        "userId": "5db2b28df678974818eb0d70",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b28df678974818eb0d72",
+    "email": "lynnlynn@koekoetech.com",
+    "name": "Lynn Lynn Htet",
+    "memberships": [
+      {
+        "userId": "5db2b28df678974818eb0d72",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b2f8fb153562d1bf952f",
+    "email": "megha@koekoetech.com",
+    "name": "Megha Nidhi Poddar",
+    "memberships": [
+      {
+        "userId": "5db2b2f8fb153562d1bf952f",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "08:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b2f8fb153562d1bf9531",
+    "email": "minmyatthu@koekoetech.com",
+    "name": "Minmyatthu",
+    "memberships": [
+      {
+        "userId": "5db2b2f8fb153562d1bf9531",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5db2bc6ac7a57569f8db47e8",
+    "defaultWorkspace": "5db2bc6ac7a57569f8db47e8",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b2f8fb153562d1bf9533",
+    "email": "minthant31265809@gmail.com",
+    "name": "Min Thant Aung Aung",
+    "memberships": [
+      {
+        "userId": "5db2b2f8fb153562d1bf9533",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b2f8fb153562d1bf9535",
+    "email": "minthittun@koekoetech.com",
+    "name": "Min Thit Tun",
+    "memberships": [
+      {
+        "userId": "5db2b2f8fb153562d1bf9535",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b310c7a57569f8db4380",
+    "email": "www.moekyawaung.mba@gmail.com",
+    "name": "Moe Kyaw Aung",
+    "memberships": [
+      {
+        "userId": "5db2b310c7a57569f8db4380",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5db7a811d8e97010b8d1ef59",
+    "defaultWorkspace": "5db7a811d8e97010b8d1ef59",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b310c7a57569f8db4382",
+    "email": "myasabai93@gmail.com",
+    "name": "Mya Sabai",
+    "memberships": [
+      {
+        "userId": "5db2b310c7a57569f8db4382",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b310c7a57569f8db4384",
+    "email": "myatkokotun90@gmail.com",
+    "name": "Myat Ko Ko Tun",
+    "memberships": [
+      {
+        "userId": "5db2b310c7a57569f8db4384",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b310c7a57569f8db4386",
+    "email": "naingnaing@koekoetech.com",
+    "name": "Naing Naing Hmaw",
+    "memberships": [
+      {
+        "userId": "5db2b310c7a57569f8db4386",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b310c7a57569f8db4388",
+    "email": "naneieitun1500@gmail.com",
+    "name": "Nan Ei Ei Htun",
+    "memberships": [
+      {
+        "userId": "5db2b310c7a57569f8db4388",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b326c7a57569f8db439a",
+    "email": "arunsun96@gmail.com",
+    "name": "Nay Win Oo",
+    "memberships": [
+      {
+        "userId": "5db2b326c7a57569f8db439a",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b326c7a57569f8db439c",
+    "email": "nayyee@koekoetech.com",
+    "name": "Nay Yee",
+    "memberships": [
+      {
+        "userId": "5db2b326c7a57569f8db439c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b326c7a57569f8db439e",
+    "email": "nwaehtwe191721@gmail.com",
+    "name": "Nwae Htwe Eain",
+    "memberships": [
+      {
+        "userId": "5db2b326c7a57569f8db439e",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": true,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b34cfb153562d1bf9552",
+    "email": "nyinyiaye@koekoetech.com",
+    "name": "Nyi Nyi Aye",
+    "memberships": [
+      {
+        "userId": "5db2b34cfb153562d1bf9552",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b34cfb153562d1bf9554",
+    "email": "phyothinzaraung@koekoetech.com",
+    "name": "Phyo Thinzar Aung",
+    "memberships": [
+      {
+        "userId": "5db2b34cfb153562d1bf9554",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD-MM-YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b34cfb153562d1bf9556",
+    "email": "phyo.thinzar1216@gmail.com",
+    "name": "Phyo Thinzar Oo",
+    "memberships": [
+      {
+        "userId": "5db2b34cfb153562d1bf9556",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b34cfb153562d1bf9558",
+    "email": "phyusin@koekoetech.com",
+    "name": "Phyu Sin Thwe",
+    "memberships": [
+      {
+        "userId": "5db2b34cfb153562d1bf9558",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b364c7a57569f8db43b5",
+    "email": "moezphyu88@gmail.com",
+    "name": "Phyu Zin Thant",
+    "memberships": [
+      {
+        "userId": "5db2b364c7a57569f8db43b5",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "TEAM",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b364c7a57569f8db43b7",
+    "email": "poeeisan@koekoetech.com",
+    "name": "Poe Ei San",
+    "memberships": [
+      {
+        "userId": "5db2b364c7a57569f8db43b7",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b364c7a57569f8db43b9",
+    "email": "priya@koekoetech.com",
+    "name": "Priya Dugar",
+    "memberships": [
+      {
+        "userId": "5db2b364c7a57569f8db43b9",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b364c7a57569f8db43bb",
+    "email": "saiaungmyohtet20@gmail.com",
+    "name": "Sai Aung Myo Htet",
+    "memberships": [
+      {
+        "userId": "5db2b364c7a57569f8db43bb",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b364c7a57569f8db43bd",
+    "email": "ammyat95@gmail.com",
+    "name": "Salai Aung Myint Myat",
+    "memberships": [
+      {
+        "userId": "5db2b364c7a57569f8db43bd",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "SUNDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "DD/MM/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b37dc7a57569f8db43c6",
+    "email": "praise@koekoetech.com",
+    "name": "Saw Praise April",
+    "memberships": [
+      {
+        "userId": "5db2b37dc7a57569f8db43c6",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "BILLABILITY",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b37dc7a57569f8db43c8",
+    "email": "sawpyaesoneaung@koekoetech.com",
+    "name": "Saw Pyae Sone Aung",
+    "memberships": [
+      {
+        "userId": "5db2b37dc7a57569f8db43c8",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-11-19T09%3A46%3A42.182Z18010015_1436466776405017_2315498354566771795_n.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b37dc7a57569f8db43ca",
+    "email": "sawwaiyanmoesan@koekoetech.com",
+    "name": "Saw Wai Yan Moe San",
+    "memberships": [
+      {
+        "userId": "5db2b37dc7a57569f8db43ca",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b37dc7a57569f8db43cc",
+    "email": "silwinphyo@koekoetech.com",
+    "name": "Si Lwin Phyo",
+    "memberships": [
+      {
+        "userId": "5db2b37dc7a57569f8db43cc",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b37dc7a57569f8db43ce",
+    "email": "sittyellow42@gmail.com",
+    "name": "Sitt Naing",
+    "memberships": [
+      {
+        "userId": "5db2b37dc7a57569f8db43ce",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3899dafc25b44226110",
+    "email": "sudilay201@gmail.com",
+    "name": "Su Sandi Htun",
+    "memberships": [
+      {
+        "userId": "5db2b3899dafc25b44226110",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-11-20T04%3A37%3A07.271Z30729452_1999078783752698_8732259540351489016_n.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3899dafc25b44226112",
+    "email": "thaungahlaymee@koekoetech.com",
+    "name": "Thaung Ahlay Mee",
+    "memberships": [
+      {
+        "userId": "5db2b3899dafc25b44226112",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-12-02T08%3A17%3A43.203ZAhlay+Photo.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3899dafc25b44226114",
+    "email": "thetminkhant@koekoetech.com",
+    "name": "Thet Min Khant",
+    "memberships": [
+      {
+        "userId": "5db2b3899dafc25b44226114",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "PENDING_EMAIL_VERIFICATION"
+  },
+  {
+    "id": "5db2b3899dafc25b44226116",
+    "email": "oothiha1110@gmail.com",
+    "name": "Oothiha1110",
+    "memberships": [
+      {
+        "userId": "5db2b3899dafc25b44226116",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5dbf83bc3d45c040086f3ae5",
+    "defaultWorkspace": "5dbf83bc3d45c040086f3ae5",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3c0c7a57569f8db43f0",
+    "email": "thitsar@koekoetech.com",
+    "name": "Thitsar Eain",
+    "memberships": [
+      {
+        "userId": "5db2b3c0c7a57569f8db43f0",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": null,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3c0c7a57569f8db43f2",
+    "email": "thuthukyawmin@gmail.com",
+    "name": "Thu Thu Kyaw Min",
+    "memberships": [
+      {
+        "userId": "5db2b3c0c7a57569f8db43f2",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-11-20T04%3A13%3A27.628Z31170121_2020655217964622_2728282669459701760_n.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR24",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:30",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3c0c7a57569f8db43f4",
+    "email": "thwethmuenyein.thn@gmail.com",
+    "name": "Thwet Hmue Nyein",
+    "memberships": [
+      {
+        "userId": "5db2b3c0c7a57569f8db43f4",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3c0c7a57569f8db43f6",
+    "email": "tinyain@koekoetech.com",
+    "name": "Ti Nyain Khant",
+    "memberships": [
+      {
+        "userId": "5db2b3c0c7a57569f8db43f6",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": true,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3c0c7a57569f8db43f8",
+    "email": "momo07343@gmail.com",
+    "name": "Tun Lin Oo",
+    "memberships": [
+      {
+        "userId": "5db2b3c0c7a57569f8db43f8",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-11-22T04%3A42%3A43.948Z96613.jpg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3e6fb153562d1bf9599",
+    "email": "vincent@koekoetech.com",
+    "name": "Ye Myo Oo",
+    "memberships": [
+      {
+        "userId": "5db2b3e6fb153562d1bf9599",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3e6fb153562d1bf959d",
+    "email": "waiyan@koekoetech.com",
+    "name": "Wai Yan",
+    "memberships": [
+      {
+        "userId": "5db2b3e6fb153562d1bf959d",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3e6fb153562d1bf959f",
+    "email": "winwinphyo@koekoetech.com",
+    "name": "Win Win Phyo",
+    "memberships": [
+      {
+        "userId": "5db2b3e6fb153562d1bf959f",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b3e6fb153562d1bf95a1",
+    "email": "yamon@koekoetech.com",
+    "name": "Yamon Oo",
+    "memberships": [
+      {
+        "userId": "5db2b3e6fb153562d1bf95a1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b407fb153562d1bf95b0",
+    "email": "yanaungmyint1991@gmail.com",
+    "name": "Yanaungmyint1991",
+    "memberships": [
+      {
+        "userId": "5db2b407fb153562d1bf95b0",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5dd3b4ac0f7c2242fb96b752",
+    "defaultWorkspace": "5dd3b4ac0f7c2242fb96b752",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b407fb153562d1bf95b2",
+    "email": "yarzarminnhtoo@koekoetech.com",
+    "name": "Yarzarminnhtoo",
+    "memberships": [
+      {
+        "userId": "5db2b407fb153562d1bf95b2",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b407fb153562d1bf95b4",
+    "email": "ye9ine@gmail.com",
+    "name": "Ye Yint Win",
+    "memberships": [
+      {
+        "userId": "5db2b407fb153562d1bf95b4",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b407fb153562d1bf95b6",
+    "email": "yeemonlay02@gmail.com",
+    "name": "Yee Mon Zaw",
+    "memberships": [
+      {
+        "userId": "5db2b407fb153562d1bf95b6",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-10-25T09%3A23%3A23.450ZScreenshot_2018-03-06-14-43-21-1.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": true,
+      "weeklyUpdates": true,
+      "longRunning": true,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b407fb153562d1bf95b8",
+    "email": "yehtetkyawlawstd@gmail.com",
+    "name": "Ye Htet Kyaw",
+    "memberships": [
+      {
+        "userId": "5db2b407fb153562d1bf95b8",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify-dev/2019-11-28T04%3A37%3A55.922Zreceived_355461695032864.jpeg",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b41dc7a57569f8db441f",
+    "email": "yimonnaing@koekoetech.com",
+    "name": "Yi Mon Naing",
+    "memberships": [
+      {
+        "userId": "5db2b41dc7a57569f8db441f",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b41dc7a57569f8db4421",
+    "email": "yin@koekoetech.com",
+    "name": "Yin Maw",
+    "memberships": [
+      {
+        "userId": "5db2b41dc7a57569f8db4421",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5dbf83aac45658492b1760ec",
+    "defaultWorkspace": "5dbf83aac45658492b1760ec",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b41dc7a57569f8db4423",
+    "email": "yinmyokhine@koekoetech.com",
+    "name": "Yin Myo Khine",
+    "memberships": [
+      {
+        "userId": "5db2b41dc7a57569f8db4423",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b41dc7a57569f8db4427",
+    "email": "zaid@koekoetech.com",
+    "name": "Zaid Moosa",
+    "memberships": [
+      {
+        "userId": "5db2b41dc7a57569f8db4427",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Yangon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b43dc7a57569f8db4436",
+    "email": "znt.may20@gmail.com",
+    "name": "Zar Ni Thin",
+    "memberships": [
+      {
+        "userId": "5db2b43dc7a57569f8db4436",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "assets/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b43dc7a57569f8db4438",
+    "email": "zarlemaw777@gmail.com",
+    "name": "Zarle Maw",
+    "memberships": [
+      {
+        "userId": "5db2b43dc7a57569f8db4438",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b43dc7a57569f8db443a",
+    "email": "naing.rk09@gmail.com",
+    "name": "Zaw Myo Naing",
+    "memberships": [
+      {
+        "userId": "5db2b43dc7a57569f8db443a",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "BILLABILITY",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b43dc7a57569f8db443c",
+    "email": "zawyenaing@koekoetech.com",
+    "name": "Zaw Ye Naing",
+    "memberships": [
+      {
+        "userId": "5db2b43dc7a57569f8db443c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5db2b43dc7a57569f8db443e",
+    "email": "fakesmile143143@gmail.com",
+    "name": "Zay Yar Aung",
+    "memberships": [
+      {
+        "userId": "5db2b43dc7a57569f8db443e",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb81344088f7b13493be1",
+    "email": "myatsandarkhaing1995@gmail.com",
+    "name": "Myat Sandar Khaing",
+    "memberships": [
+      {
+        "userId": "5dbbb81344088f7b13493be1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb821cae2c7312c212409",
+    "email": "thawdezin@gmail.com",
+    "name": "Thaw De Zin",
+    "memberships": [
+      {
+        "userId": "5dbbb821cae2c7312c212409",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": true,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb83844088f7b13493bf9",
+    "email": "zarchiappleoo@gmail.com",
+    "name": "Zar Chi Moe Oo",
+    "memberships": [
+      {
+        "userId": "5dbbb83844088f7b13493bf9",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb84bd8e97010b8d3371c",
+    "email": "hansumay4455@gmail.com",
+    "name": "Han Su May",
+    "memberships": [
+      {
+        "userId": "5dbbb84bd8e97010b8d3371c",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": true,
+      "longRunning": true,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb8643a57f5292bab424b",
+    "email": "myintmohsu@gmail.com",
+    "name": "Hsu Myint Mo Phoo",
+    "memberships": [
+      {
+        "userId": "5dbbb8643a57f5292bab424b",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dbbb87744088f7b13493c27",
+    "email": "thwezarkhaing173@gmail.com",
+    "name": "Thwe Zar Khaing",
+    "memberships": [
+      {
+        "userId": "5dbbb87744088f7b13493c27",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "CLIENT"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dc397f8bdca761692fba795",
+    "email": "htoohaymahn@koekoetech.com",
+    "name": "Htoo Haymahn",
+    "memberships": [
+      {
+        "userId": "5dc397f8bdca761692fba795",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": true
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5dce2c5cbe65e549cbca2f20",
+    "email": "nyeinnyein@koekoetech.com",
+    "name": "Nyein Nyein Win",
+    "memberships": [
+      {
+        "userId": "5dce2c5cbe65e549cbca2f20",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "INACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5dce2c5dbe65e549cbca2f22",
+    "defaultWorkspace": "5dce2c5dbe65e549cbca2f22",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "PENDING_EMAIL_VERIFICATION"
+  },
+  {
+    "id": "5dd26676be65e549cbcb10e1",
+    "email": "khantpyaelwinnaung@koekoetech.com",
+    "name": "Khant Pyae Lwin Naung",
+    "memberships": [
+      {
+        "userId": "5dd26676be65e549cbcb10e1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "Project",
+        "subgroup": "Time Entry"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  },
+  {
+    "id": "5ddb92fba66ed8221032c3d1",
+    "email": "vijaydhayal@koekoetech.com",
+    "name": "Vijay Dhayal",
+    "memberships": [
+      {
+        "userId": "5ddb92fba66ed8221032c3d1",
+        "hourlyRate": null,
+        "targetId": "5daeb85eae125662897dcdf0",
+        "membershipType": "WORKSPACE",
+        "membershipStatus": "ACTIVE"
+      }
+    ],
+    "profilePicture": "https://s3.eu-central-1.amazonaws.com/clockify/no-user-image.png",
+    "activeWorkspace": "5daeb85eae125662897dcdf0",
+    "defaultWorkspace": "5daeb85eae125662897dcdf0",
+    "settings": {
+      "weekStart": "MONDAY",
+      "timeZone": "Asia/Rangoon",
+      "timeFormat": "HOUR12",
+      "dateFormat": "MM/DD/YYYY",
+      "sendNewsletter": false,
+      "weeklyUpdates": false,
+      "longRunning": false,
+      "summaryReportSettings": {
+        "group": "PROJECT",
+        "subgroup": "TIME_ENTRY"
+      },
+      "isCompactViewOn": false,
+      "dashboardSelection": "ME",
+      "dashboardViewType": "PROJECT",
+      "dashboardPinToTop": false,
+      "projectListCollapse": 50,
+      "collapseAllProjectLists": false,
+      "groupSimilarEntriesDisabled": false,
+      "myStartOfDay": "09:00",
+      "timeTrackingManual": false
+    },
+    "status": "ACTIVE"
+  }
+]
